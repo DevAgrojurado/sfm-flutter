@@ -1,0 +1,28 @@
+[08-Apr-2025 14:57:41 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/api.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/api.php on line 26
+[08-Apr-2025 14:57:41 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/api.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/api.php on line 26
+[08-Apr-2025 14:57:43 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/api.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/api.php on line 26
+[08-Apr-2025 14:57:45 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/api.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/api.php on line 26
+[08-Apr-2025 14:57:52 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/api.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/api.php on line 26
+[08-Apr-2025 14:59:22 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/web.php on line 5
+[08-Apr-2025 14:59:25 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/agrojura/apisagroger/routes/api.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agrojura/apisagroger/routes/api.php on line 26
